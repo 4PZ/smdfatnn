@@ -9,7 +9,7 @@
 # C++ Developer 2017-2020
 - Head Admin & main developer of Linear-Software along with Pa$teuser (CS:GO HvH Cheat) (Sep-Oct 2020)
 - The only developer of Cathack.pub V1 and Cathack.pub V2 (CS:GO Legit Cheat) (Mar-May 2020)
-- Ex staff member of [Ethical](https://noriak.eu) (CS:GO Legit & Movement Cheat) (Dec 2020)
+- Ex staff member of [Ethical](https://noriak.eu) along with Noriak, Vifon, CAnE (CS:GO Legit & Movement Cheat) (Dec 2020)
 - Tons of unfinished CS:GO Pastes and UI's (Mar 2017-Jun 2020)
 
 # .NET Developer 2018-2020
