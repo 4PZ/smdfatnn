@@ -10,7 +10,7 @@
 - Head Admin & main developer of Linear-Software along with Pa$teuser (CS:GO HvH Cheat)
 - The only developer of Cathack.pub V1 and Cathack.pub V2 (CS:GO Legit Cheat)
 - Ex staff member of [Ethical](https://noriak.eu) (CS:GO Legit & Movement Cheat)
-- Tons of unfinished CS:GO Pastes and UI's made
+- Tons of unfinished CS:GO Pastes and UI's
 
 # .NET Developer 2018-2020
 - SkooterSense loader developer along with Onion
