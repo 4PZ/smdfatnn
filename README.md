@@ -31,8 +31,8 @@
 - Pixel Perfect Gamesense.pub Loader Copy
 
 # JS Developer 
-- Neplo's HUD
-- On-Shot AA Support
-- Freestanding & Anti-Prediction & Anti-Bruteforce & Slow-Walk Support & Jitter AA
-- Distance Based DT 
-- Neplo's HUD V2
+- Onetap.com Neplo's HUD
+- Onetap.com On-Shot AA Support
+- Onetap.com Freestanding & Anti-Prediction & Anti-Bruteforce & Slow-Walk Support & Jitter AA
+- Onetap.com Distance Based DT 
+- Onetap.com Neplo's HUD V2
