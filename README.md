@@ -30,7 +30,7 @@
 - Onetap.com Javascript Cracking Tools & String Decryptor
 - Pixel Perfect Gamesense.pub Loader Copy
 
-# JS Developer 
+# JS Developer 2020-2020
 - Onetap.com Neplo's HUD
 - Onetap.com On-Shot AA Support
 - Onetap.com Freestanding & Anti-Prediction & Anti-Bruteforce & Slow-Walk Support & Jitter AA
