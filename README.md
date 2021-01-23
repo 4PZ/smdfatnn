@@ -7,7 +7,7 @@
 - Tons of unused GMOD LUAs in 2018 (Nov-Dec 2018)
 
 # C++ Developer 2017-2021
-- [CatHacks.xyz](https://cathacks.xyz) Moderator & Developer (2021)
+- [CatHacks.xyz](https://cathacks.xyz) Moderator & Developer (CS:GO Legit & Semi-Rage Cheat) (2021)
 - Head Admin & main developer of Linear-Software along with Pa$teuser (CS:GO HvH Cheat) (Sep-Oct 2020)
 - The only developer of Cathack.pub V1 and Cathack.pub V2 (CS:GO Legit Cheat) (Mar-May 2020)
 - Ex staff member of [Ethical](https://noriak.eu) along with Noriak, Taurynek, CAnE and Vifon (CS:GO Legit & Movement Cheat) (Dec 2020)
